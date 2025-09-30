@@ -1,6 +1,6 @@
-# React
+# Migrant Health Record System: Secure, Portable, Multilingual Digital Health for Kerala Workers
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern React+Vite-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
 ## 🚀 Features
 
