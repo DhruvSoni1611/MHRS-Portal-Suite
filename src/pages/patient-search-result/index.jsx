@@ -316,8 +316,8 @@ const PatientSearchResults = () => {
         />
 
         <main
-          className={`flex-1 transition-all duration-300 ${
-            sidebarCollapsed ? "ml-16" : "ml-60"
+          className={`flex-1 transition-all duration-300 ml-0 ${
+            sidebarCollapsed ? "lg:ml-16" : "lg:ml-60"
           } pt-16`}
         >
           <div className="p-6">

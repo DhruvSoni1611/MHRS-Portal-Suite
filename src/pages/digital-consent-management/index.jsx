@@ -235,7 +235,7 @@ const DigitalConsentManagement = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <Header title="Digital Consent Management" onMenuToggle={() => {}} />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 xl:px-8 py-6">
         {/* Stats Cards */}
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-6">
           {tabs?.slice(0, 4)?.map((tab) => (

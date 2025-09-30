@@ -192,7 +192,7 @@ const ClinicalEncounterForm = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <Header title="Clinical Encounter Form" onMenuToggle={() => {}} />
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4 xl:px-8 py-6">
         {/* Header Info */}
         <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
           <div className="flex flex-wrap items-center justify-between">

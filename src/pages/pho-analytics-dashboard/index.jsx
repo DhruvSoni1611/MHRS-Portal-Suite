@@ -155,8 +155,8 @@ const PHOAnalyticsDashboard = () => {
         userRole="pho-official"
       />
       <main
-        className={`pt-16 transition-all duration-300 ${
-          isSidebarCollapsed ? "ml-16" : "ml-60"
+        className={`pt-16 transition-all duration-300 ml-0 ${
+          isSidebarCollapsed ? "lg:ml-16" : "lg:ml-60"
         }`}
       >
         <div className="p-6 space-y-6">
